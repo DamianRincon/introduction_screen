@@ -1,4 +1,4 @@
-# IntroductionScreen [![pub package](https://img.shields.io/pub/v/introduction_screen.svg)](https://pub.dartlang.org/packages/introduction_screen)
+# IntroductionScreen [![pub package](https://img.shields.io/pub/v/onboarding_anim.svg)](https://pub.dartlang.org/packages/introduction_screen)
 
 Introduction screen allow you to have a screen at launcher for example, where you can explain your app.
 This Widget is customizable (more in the future) with a great design.
